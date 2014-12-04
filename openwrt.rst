@@ -77,7 +77,10 @@ Port forwarding
 
 Zeitdienst per ntp
 ------------------
+.. code-block:: bash
 
+    uci set system.ntp.server='ptbtime1.ptb.de'
+    uci set system.ntp.enable_server=1
 
 
 
@@ -115,11 +118,16 @@ Konfiguration zurücksetzen
 
 Paketlaufzeiten Ping
 --------------------
+.. code-block:: bash
+
+    $ ping example.com
 
 
 DNS Server
 ----------
-net-analyzer/namebench-1.3.1-r1
+.. code-block:: bash
+
+    $ emerge net-analyzer/namebench-1.3.1-r1
 
 
 Übertragungsgeschwindigkeit
