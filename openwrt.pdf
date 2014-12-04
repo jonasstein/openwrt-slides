@@ -1,0 +1,5313 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R
+ /F4 14 0 R
+ /F5 17 0 R
+ /F6 40 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Times-Roman
+<< /BaseFont /Times-Roman
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://trolug.de/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 268.4517
+ .75
+ 335.1617
+ 12.75 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Annots [ 5 0 R ]
+ /Contents 68 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 67 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://trolug.de/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 268.4517
+ .75
+ 335.1617
+ 12.75 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page2': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Annots [ 7 0 R ]
+ /Contents 69 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 67 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://wiki.openwrt.org/toh/start) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 74.35433
+ 155.4177
+ 402.189
+ 167.4177 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+10 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://trolug.de/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 268.4517
+ .75
+ 335.1617
+ 12.75 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page3': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Annots [ 9 0 R
+ 10 0 R ]
+ /Contents 70 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 67 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+12 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://trolug.de/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 268.4517
+ .75
+ 335.1617
+ 12.75 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page4': class PDFPage 
+13 0 obj
+% Page dictionary
+<< /Annots [ 12 0 R ]
+ /Contents 71 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 67 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F4': class PDFType1Font 
+14 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+15 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://trolug.de/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 268.4517
+ .75
+ 335.1617
+ 12.75 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page5': class PDFPage 
+16 0 obj
+% Page dictionary
+<< /Annots [ 15 0 R ]
+ /Contents 72 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 67 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F5': class PDFType1Font 
+17 0 obj
+% Font Courier-Bold
+<< /BaseFont /Courier-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER7': class PDFDictionary 
+18 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://trolug.de/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 268.4517
+ .75
+ 335.1617
+ 12.75 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page6': class PDFPage 
+19 0 obj
+% Page dictionary
+<< /Annots [ 18 0 R ]
+ /Contents 73 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 67 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER8': class PDFDictionary 
+20 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://trolug.de/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 268.4517
+ .75
+ 335.1617
+ 12.75 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page7': class PDFPage 
+21 0 obj
+% Page dictionary
+<< /Annots [ 20 0 R ]
+ /Contents 74 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 67 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER9': class PDFDictionary 
+22 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://trolug.de/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 268.4517
+ .75
+ 335.1617
+ 12.75 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page8': class PDFPage 
+23 0 obj
+% Page dictionary
+<< /Annots [ 22 0 R ]
+ /Contents 75 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 67 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER10': class PDFDictionary 
+24 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://trolug.de/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 268.4517
+ .75
+ 335.1617
+ 12.75 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page9': class PDFPage 
+25 0 obj
+% Page dictionary
+<< /Annots [ 24 0 R ]
+ /Contents 76 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 67 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER11': class PDFDictionary 
+26 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://trolug.de/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 268.4517
+ .75
+ 335.1617
+ 12.75 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page10': class PDFPage 
+27 0 obj
+% Page dictionary
+<< /Annots [ 26 0 R ]
+ /Contents 77 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 67 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER12': class PDFDictionary 
+28 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://trolug.de/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 268.4517
+ .75
+ 335.1617
+ 12.75 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page11': class PDFPage 
+29 0 obj
+% Page dictionary
+<< /Annots [ 28 0 R ]
+ /Contents 78 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 67 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER13': class PDFDictionary 
+30 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://trolug.de/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 268.4517
+ .75
+ 335.1617
+ 12.75 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page12': class PDFPage 
+31 0 obj
+% Page dictionary
+<< /Annots [ 30 0 R ]
+ /Contents 79 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 67 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER14': class PDFDictionary 
+32 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://trolug.de/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 268.4517
+ .75
+ 335.1617
+ 12.75 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page13': class PDFPage 
+33 0 obj
+% Page dictionary
+<< /Annots [ 32 0 R ]
+ /Contents 80 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 67 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER15': class PDFDictionary 
+34 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://trolug.de/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 268.4517
+ .75
+ 335.1617
+ 12.75 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page14': class PDFPage 
+35 0 obj
+% Page dictionary
+<< /Annots [ 34 0 R ]
+ /Contents 81 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 67 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER16': class PDFDictionary 
+36 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://trolug.de/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 268.4517
+ .75
+ 335.1617
+ 12.75 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page15': class PDFPage 
+37 0 obj
+% Page dictionary
+<< /Annots [ 36 0 R ]
+ /Contents 82 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 67 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER17': class PDFDictionary 
+38 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://trolug.de/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 268.4517
+ .75
+ 335.1617
+ 12.75 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page16': class PDFPage 
+39 0 obj
+% Page dictionary
+<< /Annots [ 38 0 R ]
+ /Contents 83 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 67 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F6': class PDFType1Font 
+40 0 obj
+% Font Courier-Oblique
+<< /BaseFont /Courier-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F6
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER18': class PDFDictionary 
+41 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://trolug.de/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 268.4517
+ .75
+ 335.1617
+ 12.75 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page17': class PDFPage 
+42 0 obj
+% Page dictionary
+<< /Annots [ 41 0 R ]
+ /Contents 84 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 67 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER19': class PDFDictionary 
+43 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://ralsina.me/stories/BBS52.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 157.1643
+ 96.21772
+ 316.1143
+ 108.2177 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER20': class PDFDictionary 
+44 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://trolug.de/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 268.4517
+ .75
+ 335.1617
+ 12.75 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page18': class PDFPage 
+45 0 obj
+% Page dictionary
+<< /Annots [ 43 0 R
+ 44 0 R ]
+ /Contents 85 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 67 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R46': class PDFCatalog 
+46 0 obj
+% Document Root
+<< /Outlines 48 0 R
+ /PageLabels 86 0 R
+ /PageMode /UseNone
+ /Pages 67 0 R
+ /Type /Catalog >>
+endobj
+% 'R47': class PDFInfo 
+47 0 obj
+<< /Author ()
+ /CreationDate (D:20141204010335-01'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title () >>
+endobj
+% 'R48': class PDFOutlines 
+48 0 obj
+<< /Count 18
+ /First 49 0 R
+ /Last 66 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+49 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 51.35433
+ 202.6677
+ 0 ]
+ /Next 50 0 R
+ /Parent 48 0 R
+ /Title (OpenWRT ersetzt Firmware des Herstellers) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+50 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 51.35433
+ 202.6677
+ 0 ]
+ /Next 51 0 R
+ /Parent 48 0 R
+ /Prev 49 0 R
+ /Title (DSL-Splitter) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+51 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 51.35433
+ 202.6677
+ 0 ]
+ /Next 52 0 R
+ /Parent 48 0 R
+ /Prev 50 0 R
+ /Title (Unterst\374tzte Router) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+52 0 obj
+<< /Dest [ 13 0 R
+ /XYZ
+ 51.35433
+ 202.6677
+ 0 ]
+ /Next 53 0 R
+ /Parent 48 0 R
+ /Prev 51 0 R
+ /Title (Passende Firmware finden) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+53 0 obj
+<< /Dest [ 16 0 R
+ /XYZ
+ 51.35433
+ 202.6677
+ 0 ]
+ /Next 54 0 R
+ /Parent 48 0 R
+ /Prev 52 0 R
+ /Title (Erste Anmeldung) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+54 0 obj
+<< /Dest [ 19 0 R
+ /XYZ
+ 51.35433
+ 202.6677
+ 0 ]
+ /Next 55 0 R
+ /Parent 48 0 R
+ /Prev 53 0 R
+ /Title (Passwort setzen) >>
+endobj
+% 'Outline.6': class OutlineEntryObject 
+55 0 obj
+<< /Dest [ 21 0 R
+ /XYZ
+ 51.35433
+ 202.6677
+ 0 ]
+ /Next 56 0 R
+ /Parent 48 0 R
+ /Prev 54 0 R
+ /Title (DSL Zugangsdaten) >>
+endobj
+% 'Outline.7': class OutlineEntryObject 
+56 0 obj
+<< /Dest [ 23 0 R
+ /XYZ
+ 51.35433
+ 202.6677
+ 0 ]
+ /Next 57 0 R
+ /Parent 48 0 R
+ /Prev 55 0 R
+ /Title (DHCP-Server) >>
+endobj
+% 'Outline.8': class OutlineEntryObject 
+57 0 obj
+<< /Dest [ 25 0 R
+ /XYZ
+ 51.35433
+ 202.6677
+ 0 ]
+ /Next 58 0 R
+ /Parent 48 0 R
+ /Prev 56 0 R
+ /Title (Port forwarding) >>
+endobj
+% 'Outline.9': class OutlineEntryObject 
+58 0 obj
+<< /Dest [ 27 0 R
+ /XYZ
+ 51.35433
+ 202.6677
+ 0 ]
+ /Next 59 0 R
+ /Parent 48 0 R
+ /Prev 57 0 R
+ /Title (Zeitdienst per ntp) >>
+endobj
+% 'Outline.10': class OutlineEntryObject 
+59 0 obj
+<< /Dest [ 29 0 R
+ /XYZ
+ 51.35433
+ 202.6677
+ 0 ]
+ /Next 60 0 R
+ /Parent 48 0 R
+ /Prev 58 0 R
+ /Title (Fehlersuche) >>
+endobj
+% 'Outline.11': class OutlineEntryObject 
+60 0 obj
+<< /Dest [ 31 0 R
+ /XYZ
+ 51.35433
+ 202.6677
+ 0 ]
+ /Next 61 0 R
+ /Parent 48 0 R
+ /Prev 59 0 R
+ /Title (lokale IP) >>
+endobj
+% 'Outline.12': class OutlineEntryObject 
+61 0 obj
+<< /Dest [ 33 0 R
+ /XYZ
+ 51.35433
+ 202.6677
+ 0 ]
+ /Next 62 0 R
+ /Parent 48 0 R
+ /Prev 60 0 R
+ /Title (externe IP) >>
+endobj
+% 'Outline.13': class OutlineEntryObject 
+62 0 obj
+<< /Dest [ 35 0 R
+ /XYZ
+ 51.35433
+ 202.6677
+ 0 ]
+ /Next 63 0 R
+ /Parent 48 0 R
+ /Prev 61 0 R
+ /Title (Konfiguration zur\374cksetzen) >>
+endobj
+% 'Outline.14': class OutlineEntryObject 
+63 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 51.35433
+ 202.6677
+ 0 ]
+ /Next 64 0 R
+ /Parent 48 0 R
+ /Prev 62 0 R
+ /Title (Paketlaufzeiten Ping) >>
+endobj
+% 'Outline.15': class OutlineEntryObject 
+64 0 obj
+<< /Dest [ 39 0 R
+ /XYZ
+ 51.35433
+ 202.6677
+ 0 ]
+ /Next 65 0 R
+ /Parent 48 0 R
+ /Prev 63 0 R
+ /Title (DNS Server) >>
+endobj
+% 'Outline.16': class OutlineEntryObject 
+65 0 obj
+<< /Dest [ 42 0 R
+ /XYZ
+ 51.35433
+ 202.6677
+ 0 ]
+ /Next 66 0 R
+ /Parent 48 0 R
+ /Prev 64 0 R
+ /Title (\334bertragungsgeschwindigkeit) >>
+endobj
+% 'Outline.17': class OutlineEntryObject 
+66 0 obj
+<< /Dest [ 45 0 R
+ /XYZ
+ 51.35433
+ 202.6677
+ 0 ]
+ /Parent 48 0 R
+ /Prev 65 0 R
+ /Title (Dank) >>
+endobj
+% 'R67': class PDFPages 
+67 0 obj
+% page tree
+<< /Count 18
+ /Kids [ 6 0 R
+ 8 0 R
+ 11 0 R
+ 13 0 R
+ 16 0 R
+ 19 0 R
+ 21 0 R
+ 23 0 R
+ 25 0 R
+ 27 0 R
+ 29 0 R
+ 31 0 R
+ 33 0 R
+ 35 0 R
+ 37 0 R
+ 39 0 R
+ 42 0 R
+ 45 0 R ]
+ /Type /Pages >>
+endobj
+% 'R68': class PDFStream 
+68 0 obj
+% page stream
+<< /Length 5184 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.347153 0 0 .347153 45.8998 0 cm
+q
+[] 0 d
+BT /F2 10 Tf 12 TL ET
+1 w
+0 0 0 RG
+1 0 0 1 0 0 cm
+0 j
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+0 J
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 744.0945 cm
+q
+1 0 0 1 0 -308.2677 cm
+q
+.220321 0 0 .220321 947.9707 317.465 cm
+q
+[] 0 d
+1 w
+1 1 1 rg
+0 j
+0 J
+n 0 .048886 426.9157 426.9157 re f*
+Q
+q
+1.093858 0 0 1.093858 135.5162 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 -9.761678 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 134.6457 106.1024 14.17323 212.5984 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 141.7323 311.6142 148.8189 14.17323 re f*
+Q
+q
+.7657 0 0 .7657 33.20783 25.05659 cm
+q
+[] 0 d
+1 w
+0 0 1 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 182.0267 237.655 cm
+q
+[] 0 d
+1 w
+1 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 33.20783 237.655 cm
+q
+[] 0 d
+1 w
+0 1 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 35.25983 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 361.4172 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 35.2599 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 361.4173 28.34646 28.34646 re f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 160.6677 cm
+q
+BT 1 0 0 1 0 24.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (OpenWRT ersetzt Firmware des) Tj T* (Herstellers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 148.6677 cm
+Q
+q
+1 0 0 1 51.35433 148.6677 cm
+Q
+q
+1 0 0 1 51.35433 136.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Produktunabh\344ngige, einheitliche Bedienung) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 130.6677 cm
+Q
+q
+1 0 0 1 51.35433 118.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (mehr Funktionen) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 112.6677 cm
+Q
+q
+1 0 0 1 51.35433 100.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (leicht erweiterbar) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 94.66772 cm
+Q
+q
+1 0 0 1 51.35433 82.66772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ger\344teunabh\344ngige Konfiguration \(UCI\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 76.66772 cm
+Q
+q
+1 0 0 1 51.35433 64.66772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M\366glich durch GPL) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 64.66772 cm
+Q
+q
+1 0 0 1 51.35433 64.66772 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 141.4817 0 Td (OpenWRT - Freie Firmware f\374r Router) Tj T* -141.4817 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+BT 1 0 0 1 0 2 Tm 118.3817 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2014-12-04 Jonas Stein, TroLUG ) Tj 0 0 .501961 rg (http://trolug.de/) Tj T* -118.3817 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R69': class PDFStream 
+69 0 obj
+% page stream
+<< /Length 4099 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.347153 0 0 .347153 45.8998 0 cm
+q
+[] 0 d
+BT /F2 10 Tf 12 TL ET
+1 w
+0 0 0 RG
+1 0 0 1 0 0 cm
+0 j
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+0 J
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 744.0945 cm
+q
+1 0 0 1 0 -308.2677 cm
+q
+.220321 0 0 .220321 947.9707 317.465 cm
+q
+[] 0 d
+1 w
+1 1 1 rg
+0 j
+0 J
+n 0 .048886 426.9157 426.9157 re f*
+Q
+q
+1.093858 0 0 1.093858 135.5162 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 -9.761678 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 134.6457 106.1024 14.17323 212.5984 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 141.7323 311.6142 148.8189 14.17323 re f*
+Q
+q
+.7657 0 0 .7657 33.20783 25.05659 cm
+q
+[] 0 d
+1 w
+0 0 1 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 182.0267 237.655 cm
+q
+[] 0 d
+1 w
+1 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 33.20783 237.655 cm
+q
+[] 0 d
+1 w
+0 1 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 35.25983 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 361.4172 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 35.2599 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 361.4173 28.34646 28.34646 re f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (DSL-Splitter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 169.6677 cm
+Q
+q
+1 0 0 1 51.35433 169.6677 cm
+Q
+q
+1 0 0 1 51.35433 157.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Frequenzweiche) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 151.6677 cm
+Q
+q
+1 0 0 1 51.35433 139.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Alterung) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 139.6677 cm
+Q
+q
+1 0 0 1 51.35433 139.6677 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 141.4817 0 Td (OpenWRT - Freie Firmware f\374r Router) Tj T* -141.4817 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+BT 1 0 0 1 0 2 Tm 118.3817 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2014-12-04 Jonas Stein, TroLUG ) Tj 0 0 .501961 rg (http://trolug.de/) Tj T* -118.3817 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R70': class PDFStream 
+70 0 obj
+% page stream
+<< /Length 4847 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.347153 0 0 .347153 45.8998 0 cm
+q
+[] 0 d
+BT /F2 10 Tf 12 TL ET
+1 w
+0 0 0 RG
+1 0 0 1 0 0 cm
+0 j
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+0 J
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 744.0945 cm
+q
+1 0 0 1 0 -308.2677 cm
+q
+.220321 0 0 .220321 947.9707 317.465 cm
+q
+[] 0 d
+1 w
+1 1 1 rg
+0 j
+0 J
+n 0 .048886 426.9157 426.9157 re f*
+Q
+q
+1.093858 0 0 1.093858 135.5162 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 -9.761678 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 134.6457 106.1024 14.17323 212.5984 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 141.7323 311.6142 148.8189 14.17323 re f*
+Q
+q
+.7657 0 0 .7657 33.20783 25.05659 cm
+q
+[] 0 d
+1 w
+0 0 1 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 182.0267 237.655 cm
+q
+[] 0 d
+1 w
+1 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 33.20783 237.655 cm
+q
+[] 0 d
+1 w
+0 1 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 35.25983 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 361.4172 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 35.2599 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 361.4173 28.34646 28.34646 re f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (Unterst\374tzte Router) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 169.6677 cm
+Q
+q
+1 0 0 1 51.35433 169.6677 cm
+Q
+q
+1 0 0 1 51.35433 157.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://wiki.openwrt.org/toh/start) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 151.6677 cm
+Q
+q
+1 0 0 1 51.35433 139.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (mindestens 16 MB RAM) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 133.6677 cm
+Q
+q
+1 0 0 1 51.35433 121.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sehr verbreitet: TP-LINK) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 115.6677 cm
+Q
+q
+1 0 0 1 51.35433 103.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (DD-WRT 54 GL wird nicht mehr unterst\374tzt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 103.6677 cm
+Q
+q
+1 0 0 1 51.35433 103.6677 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 141.4817 0 Td (OpenWRT - Freie Firmware f\374r Router) Tj T* -141.4817 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+BT 1 0 0 1 0 2 Tm 118.3817 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2014-12-04 Jonas Stein, TroLUG ) Tj 0 0 .501961 rg (http://trolug.de/) Tj T* -118.3817 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R71': class PDFStream 
+71 0 obj
+% page stream
+<< /Length 4154 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.347153 0 0 .347153 45.8998 0 cm
+q
+[] 0 d
+BT /F2 10 Tf 12 TL ET
+1 w
+0 0 0 RG
+1 0 0 1 0 0 cm
+0 j
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+0 J
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 744.0945 cm
+q
+1 0 0 1 0 -308.2677 cm
+q
+.220321 0 0 .220321 947.9707 317.465 cm
+q
+[] 0 d
+1 w
+1 1 1 rg
+0 j
+0 J
+n 0 .048886 426.9157 426.9157 re f*
+Q
+q
+1.093858 0 0 1.093858 135.5162 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 -9.761678 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 134.6457 106.1024 14.17323 212.5984 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 141.7323 311.6142 148.8189 14.17323 re f*
+Q
+q
+.7657 0 0 .7657 33.20783 25.05659 cm
+q
+[] 0 d
+1 w
+0 0 1 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 182.0267 237.655 cm
+q
+[] 0 d
+1 w
+1 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 33.20783 237.655 cm
+q
+[] 0 d
+1 w
+0 1 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 35.25983 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 361.4172 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 35.2599 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 361.4173 28.34646 28.34646 re f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (Passende Firmware finden) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 169.6677 cm
+Q
+q
+1 0 0 1 51.35433 169.6677 cm
+Q
+q
+1 0 0 1 51.35433 157.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Hersteller, Bauserie) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 151.6677 cm
+Q
+q
+1 0 0 1 51.35433 139.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Hardwareversion oft auf Ger\344ter\374ckseite) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 139.6677 cm
+Q
+q
+1 0 0 1 51.35433 139.6677 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 141.4817 0 Td (OpenWRT - Freie Firmware f\374r Router) Tj T* -141.4817 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+BT 1 0 0 1 0 2 Tm 118.3817 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2014-12-04 Jonas Stein, TroLUG ) Tj 0 0 .501961 rg (http://trolug.de/) Tj T* -118.3817 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R72': class PDFStream 
+72 0 obj
+% page stream
+<< /Length 3656 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.347153 0 0 .347153 45.8998 0 cm
+q
+[] 0 d
+BT /F2 10 Tf 12 TL ET
+1 w
+0 0 0 RG
+1 0 0 1 0 0 cm
+0 j
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+0 J
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 744.0945 cm
+q
+1 0 0 1 0 -308.2677 cm
+q
+.220321 0 0 .220321 947.9707 317.465 cm
+q
+[] 0 d
+1 w
+1 1 1 rg
+0 j
+0 J
+n 0 .048886 426.9157 426.9157 re f*
+Q
+q
+1.093858 0 0 1.093858 135.5162 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 -9.761678 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 134.6457 106.1024 14.17323 212.5984 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 141.7323 311.6142 148.8189 14.17323 re f*
+Q
+q
+.7657 0 0 .7657 33.20783 25.05659 cm
+q
+[] 0 d
+1 w
+0 0 1 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 182.0267 237.655 cm
+q
+[] 0 d
+1 w
+1 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 33.20783 237.655 cm
+q
+[] 0 d
+1 w
+0 1 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 35.25983 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 361.4172 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 35.2599 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 361.4173 28.34646 28.34646 re f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (Erste Anmeldung) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 148.4677 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 349.6346 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (telnet 192.168.1.1) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 140.4677 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 141.4817 0 Td (OpenWRT - Freie Firmware f\374r Router) Tj T* -141.4817 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+BT 1 0 0 1 0 2 Tm 118.3817 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2014-12-04 Jonas Stein, TroLUG ) Tj 0 0 .501961 rg (http://trolug.de/) Tj T* -118.3817 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R73': class PDFStream 
+73 0 obj
+% page stream
+<< /Length 4809 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.347153 0 0 .347153 45.8998 0 cm
+q
+[] 0 d
+BT /F2 10 Tf 12 TL ET
+1 w
+0 0 0 RG
+1 0 0 1 0 0 cm
+0 j
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+0 J
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 744.0945 cm
+q
+1 0 0 1 0 -308.2677 cm
+q
+.220321 0 0 .220321 947.9707 317.465 cm
+q
+[] 0 d
+1 w
+1 1 1 rg
+0 j
+0 J
+n 0 .048886 426.9157 426.9157 re f*
+Q
+q
+1.093858 0 0 1.093858 135.5162 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 -9.761678 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 134.6457 106.1024 14.17323 212.5984 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 141.7323 311.6142 148.8189 14.17323 re f*
+Q
+q
+.7657 0 0 .7657 33.20783 25.05659 cm
+q
+[] 0 d
+1 w
+0 0 1 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 182.0267 237.655 cm
+q
+[] 0 d
+1 w
+1 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 33.20783 237.655 cm
+q
+[] 0 d
+1 w
+0 1 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 35.25983 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 361.4172 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 35.2599 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 361.4173 28.34646 28.34646 re f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (Passwort setzen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 124.4677 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 349.6346 48 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 24.75 12 12 re f*
+.960784 .960784 .862745 rg
+n 54 12.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 30 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 .75 6 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F4 10 Tf .098039 .090196 .486275 rg ($ ) Tj 0 0 0 rg (passwd) Tj T* (Password ) Tj /F5 10 Tf 0 .501961 0 rg (for) Tj /F4 10 Tf 0 0 0 rg ( root changed by root) Tj T* (root@) Tj .4 .4 .4 rg (\() Tj 0 0 0 rg (none) Tj .4 .4 .4 rg (\)) Tj 0 0 0 rg (:/# reboot -f) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 110.4677 cm
+Q
+q
+1 0 0 1 51.35433 110.4677 cm
+Q
+q
+1 0 0 1 51.35433 98.46772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Deaktiviert telnet) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 92.46772 cm
+Q
+q
+1 0 0 1 51.35433 80.46772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ab jetzt login per ssh) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 80.46772 cm
+Q
+q
+1 0 0 1 51.35433 80.46772 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 141.4817 0 Td (OpenWRT - Freie Firmware f\374r Router) Tj T* -141.4817 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+BT 1 0 0 1 0 2 Tm 118.3817 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2014-12-04 Jonas Stein, TroLUG ) Tj 0 0 .501961 rg (http://trolug.de/) Tj T* -118.3817 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R74': class PDFStream 
+74 0 obj
+% page stream
+<< /Length 4496 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.347153 0 0 .347153 45.8998 0 cm
+q
+[] 0 d
+BT /F2 10 Tf 12 TL ET
+1 w
+0 0 0 RG
+1 0 0 1 0 0 cm
+0 j
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+0 J
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 744.0945 cm
+q
+1 0 0 1 0 -308.2677 cm
+q
+.220321 0 0 .220321 947.9707 317.465 cm
+q
+[] 0 d
+1 w
+1 1 1 rg
+0 j
+0 J
+n 0 .048886 426.9157 426.9157 re f*
+Q
+q
+1.093858 0 0 1.093858 135.5162 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 -9.761678 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 134.6457 106.1024 14.17323 212.5984 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 141.7323 311.6142 148.8189 14.17323 re f*
+Q
+q
+.7657 0 0 .7657 33.20783 25.05659 cm
+q
+[] 0 d
+1 w
+0 0 1 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 182.0267 237.655 cm
+q
+[] 0 d
+1 w
+1 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 33.20783 237.655 cm
+q
+[] 0 d
+1 w
+0 1 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 35.25983 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 361.4172 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 35.2599 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 361.4173 28.34646 28.34646 re f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (DSL Zugangsdaten) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 100.4677 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 349.6346 72 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 24 48.75 24 12 re f*
+.960784 .960784 .862745 rg
+n 150 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 36.75 24 12 re f*
+.960784 .960784 .862745 rg
+n 168 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 174 36.75 108 12 re f*
+.960784 .960784 .862745 rg
+n 24 24.75 24 12 re f*
+.960784 .960784 .862745 rg
+n 168 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 174 24.75 36 12 re f*
+BT 1 0 0 1 0 50 Tm 12 TL /F4 10 Tf 0 0 0 rg (uci ) Tj 0 .501961 0 rg (set ) Tj 0 0 0 rg (network.wan.proto) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (pppoe) Tj T* (uci ) Tj 0 .501961 0 rg (set ) Tj 0 0 0 rg (network.wan.username) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ('user@example.com') Tj 0 0 0 rg  T* (uci ) Tj 0 .501961 0 rg (set ) Tj 0 0 0 rg (network.wan.password) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ('asdf') Tj 0 0 0 rg  T* (uci commit network) Tj T* (ifup wan) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 92.46772 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 141.4817 0 Td (OpenWRT - Freie Firmware f\374r Router) Tj T* -141.4817 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+BT 1 0 0 1 0 2 Tm 118.3817 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2014-12-04 Jonas Stein, TroLUG ) Tj 0 0 .501961 rg (http://trolug.de/) Tj T* -118.3817 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R75': class PDFStream 
+75 0 obj
+% page stream
+<< /Length 3386 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.347153 0 0 .347153 45.8998 0 cm
+q
+[] 0 d
+BT /F2 10 Tf 12 TL ET
+1 w
+0 0 0 RG
+1 0 0 1 0 0 cm
+0 j
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+0 J
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 744.0945 cm
+q
+1 0 0 1 0 -308.2677 cm
+q
+.220321 0 0 .220321 947.9707 317.465 cm
+q
+[] 0 d
+1 w
+1 1 1 rg
+0 j
+0 J
+n 0 .048886 426.9157 426.9157 re f*
+Q
+q
+1.093858 0 0 1.093858 135.5162 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 -9.761678 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 134.6457 106.1024 14.17323 212.5984 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 141.7323 311.6142 148.8189 14.17323 re f*
+Q
+q
+.7657 0 0 .7657 33.20783 25.05659 cm
+q
+[] 0 d
+1 w
+0 0 1 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 182.0267 237.655 cm
+q
+[] 0 d
+1 w
+1 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 33.20783 237.655 cm
+q
+[] 0 d
+1 w
+0 1 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 35.25983 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 361.4172 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 35.2599 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 361.4173 28.34646 28.34646 re f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (DHCP-Server) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 175.6677 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 141.4817 0 Td (OpenWRT - Freie Firmware f\374r Router) Tj T* -141.4817 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+BT 1 0 0 1 0 2 Tm 118.3817 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2014-12-04 Jonas Stein, TroLUG ) Tj 0 0 .501961 rg (http://trolug.de/) Tj T* -118.3817 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R76': class PDFStream 
+76 0 obj
+% page stream
+<< /Length 3390 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.347153 0 0 .347153 45.8998 0 cm
+q
+[] 0 d
+BT /F2 10 Tf 12 TL ET
+1 w
+0 0 0 RG
+1 0 0 1 0 0 cm
+0 j
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+0 J
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 744.0945 cm
+q
+1 0 0 1 0 -308.2677 cm
+q
+.220321 0 0 .220321 947.9707 317.465 cm
+q
+[] 0 d
+1 w
+1 1 1 rg
+0 j
+0 J
+n 0 .048886 426.9157 426.9157 re f*
+Q
+q
+1.093858 0 0 1.093858 135.5162 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 -9.761678 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 134.6457 106.1024 14.17323 212.5984 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 141.7323 311.6142 148.8189 14.17323 re f*
+Q
+q
+.7657 0 0 .7657 33.20783 25.05659 cm
+q
+[] 0 d
+1 w
+0 0 1 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 182.0267 237.655 cm
+q
+[] 0 d
+1 w
+1 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 33.20783 237.655 cm
+q
+[] 0 d
+1 w
+0 1 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 35.25983 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 361.4172 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 35.2599 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 361.4173 28.34646 28.34646 re f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (Port forwarding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 175.6677 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 141.4817 0 Td (OpenWRT - Freie Firmware f\374r Router) Tj T* -141.4817 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+BT 1 0 0 1 0 2 Tm 118.3817 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2014-12-04 Jonas Stein, TroLUG ) Tj 0 0 .501961 rg (http://trolug.de/) Tj T* -118.3817 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R77': class PDFStream 
+77 0 obj
+% page stream
+<< /Length 3393 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.347153 0 0 .347153 45.8998 0 cm
+q
+[] 0 d
+BT /F2 10 Tf 12 TL ET
+1 w
+0 0 0 RG
+1 0 0 1 0 0 cm
+0 j
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+0 J
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 744.0945 cm
+q
+1 0 0 1 0 -308.2677 cm
+q
+.220321 0 0 .220321 947.9707 317.465 cm
+q
+[] 0 d
+1 w
+1 1 1 rg
+0 j
+0 J
+n 0 .048886 426.9157 426.9157 re f*
+Q
+q
+1.093858 0 0 1.093858 135.5162 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 -9.761678 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 134.6457 106.1024 14.17323 212.5984 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 141.7323 311.6142 148.8189 14.17323 re f*
+Q
+q
+.7657 0 0 .7657 33.20783 25.05659 cm
+q
+[] 0 d
+1 w
+0 0 1 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 182.0267 237.655 cm
+q
+[] 0 d
+1 w
+1 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 33.20783 237.655 cm
+q
+[] 0 d
+1 w
+0 1 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 35.25983 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 361.4172 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 35.2599 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 361.4173 28.34646 28.34646 re f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (Zeitdienst per ntp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 175.6677 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 141.4817 0 Td (OpenWRT - Freie Firmware f\374r Router) Tj T* -141.4817 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+BT 1 0 0 1 0 2 Tm 118.3817 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2014-12-04 Jonas Stein, TroLUG ) Tj 0 0 .501961 rg (http://trolug.de/) Tj T* -118.3817 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R78': class PDFStream 
+78 0 obj
+% page stream
+<< /Length 3822 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.347153 0 0 .347153 45.8998 0 cm
+q
+[] 0 d
+BT /F2 10 Tf 12 TL ET
+1 w
+0 0 0 RG
+1 0 0 1 0 0 cm
+0 j
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+0 J
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 744.0945 cm
+q
+1 0 0 1 0 -308.2677 cm
+q
+.220321 0 0 .220321 947.9707 317.465 cm
+q
+[] 0 d
+1 w
+1 1 1 rg
+0 j
+0 J
+n 0 .048886 426.9157 426.9157 re f*
+Q
+q
+1.093858 0 0 1.093858 135.5162 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 -9.761678 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 134.6457 106.1024 14.17323 212.5984 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 141.7323 311.6142 148.8189 14.17323 re f*
+Q
+q
+.7657 0 0 .7657 33.20783 25.05659 cm
+q
+[] 0 d
+1 w
+0 0 1 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 182.0267 237.655 cm
+q
+[] 0 d
+1 w
+1 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 33.20783 237.655 cm
+q
+[] 0 d
+1 w
+0 1 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 35.25983 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 361.4172 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 35.2599 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 361.4173 28.34646 28.34646 re f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (Fehlersuche) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 163.6677 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Hardwarestatus der Netzwerkkarte abfragen .. code-block:: bash) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 157.6677 cm
+Q
+q
+1 0 0 1 51.35433 145.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($ mii-tools eth0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 145.6677 cm
+Q
+q
+1 0 0 1 51.35433 145.6677 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 141.4817 0 Td (OpenWRT - Freie Firmware f\374r Router) Tj T* -141.4817 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+BT 1 0 0 1 0 2 Tm 118.3817 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2014-12-04 Jonas Stein, TroLUG ) Tj 0 0 .501961 rg (http://trolug.de/) Tj T* -118.3817 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R79': class PDFStream 
+79 0 obj
+% page stream
+<< /Length 3723 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.347153 0 0 .347153 45.8998 0 cm
+q
+[] 0 d
+BT /F2 10 Tf 12 TL ET
+1 w
+0 0 0 RG
+1 0 0 1 0 0 cm
+0 j
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+0 J
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 744.0945 cm
+q
+1 0 0 1 0 -308.2677 cm
+q
+.220321 0 0 .220321 947.9707 317.465 cm
+q
+[] 0 d
+1 w
+1 1 1 rg
+0 j
+0 J
+n 0 .048886 426.9157 426.9157 re f*
+Q
+q
+1.093858 0 0 1.093858 135.5162 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 -9.761678 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 134.6457 106.1024 14.17323 212.5984 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 141.7323 311.6142 148.8189 14.17323 re f*
+Q
+q
+.7657 0 0 .7657 33.20783 25.05659 cm
+q
+[] 0 d
+1 w
+0 0 1 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 182.0267 237.655 cm
+q
+[] 0 d
+1 w
+1 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 33.20783 237.655 cm
+q
+[] 0 d
+1 w
+0 1 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 35.25983 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 361.4172 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 35.2599 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 361.4173 28.34646 28.34646 re f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (lokale IP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 148.4677 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 349.6346 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 .75 12 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf .098039 .090196 .486275 rg ($ ) Tj 0 0 0 rg (ifconfig) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 140.4677 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 141.4817 0 Td (OpenWRT - Freie Firmware f\374r Router) Tj T* -141.4817 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+BT 1 0 0 1 0 2 Tm 118.3817 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2014-12-04 Jonas Stein, TroLUG ) Tj 0 0 .501961 rg (http://trolug.de/) Tj T* -118.3817 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R80': class PDFStream 
+80 0 obj
+% page stream
+<< /Length 4289 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.347153 0 0 .347153 45.8998 0 cm
+q
+[] 0 d
+BT /F2 10 Tf 12 TL ET
+1 w
+0 0 0 RG
+1 0 0 1 0 0 cm
+0 j
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+0 J
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 744.0945 cm
+q
+1 0 0 1 0 -308.2677 cm
+q
+.220321 0 0 .220321 947.9707 317.465 cm
+q
+[] 0 d
+1 w
+1 1 1 rg
+0 j
+0 J
+n 0 .048886 426.9157 426.9157 re f*
+Q
+q
+1.093858 0 0 1.093858 135.5162 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 -9.761678 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 134.6457 106.1024 14.17323 212.5984 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 141.7323 311.6142 148.8189 14.17323 re f*
+Q
+q
+.7657 0 0 .7657 33.20783 25.05659 cm
+q
+[] 0 d
+1 w
+0 0 1 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 182.0267 237.655 cm
+q
+[] 0 d
+1 w
+1 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 33.20783 237.655 cm
+q
+[] 0 d
+1 w
+0 1 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 35.25983 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 361.4172 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 35.2599 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 361.4173 28.34646 28.34646 re f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (externe IP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 129.5443 cm
+q
+q
+.896817 0 0 .896817 0 0 cm
+q
+1 0 0 1 6.6 7.359364 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 390 48 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 24.75 12 12 re f*
+.960784 .960784 .862745 rg
+n 0 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 18 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 .75 36 12 re f*
+.960784 .960784 .862745 rg
+n 36 .75 24 12 re f*
+.960784 .960784 .862745 rg
+n 60 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 .75 312 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F4 10 Tf .098039 .090196 .486275 rg ($ ) Tj 0 0 0 rg (cat ~/.bash_aliases) Tj T* .4 .4 .4 rg ([) Tj 0 0 0 rg (..) Tj .4 .4 .4 rg (]) Tj 0 0 0 rg  T* 0 .501961 0 rg (alias ) Tj .098039 .090196 .486275 rg (myip) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ('dig +short myip.opendns.com @resolver1.opendns.com') Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 121.5443 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 141.4817 0 Td (OpenWRT - Freie Firmware f\374r Router) Tj T* -141.4817 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+BT 1 0 0 1 0 2 Tm 118.3817 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2014-12-04 Jonas Stein, TroLUG ) Tj 0 0 .501961 rg (http://trolug.de/) Tj T* -118.3817 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R81': class PDFStream 
+81 0 obj
+% page stream
+<< /Length 3404 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.347153 0 0 .347153 45.8998 0 cm
+q
+[] 0 d
+BT /F2 10 Tf 12 TL ET
+1 w
+0 0 0 RG
+1 0 0 1 0 0 cm
+0 j
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+0 J
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 744.0945 cm
+q
+1 0 0 1 0 -308.2677 cm
+q
+.220321 0 0 .220321 947.9707 317.465 cm
+q
+[] 0 d
+1 w
+1 1 1 rg
+0 j
+0 J
+n 0 .048886 426.9157 426.9157 re f*
+Q
+q
+1.093858 0 0 1.093858 135.5162 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 -9.761678 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 134.6457 106.1024 14.17323 212.5984 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 141.7323 311.6142 148.8189 14.17323 re f*
+Q
+q
+.7657 0 0 .7657 33.20783 25.05659 cm
+q
+[] 0 d
+1 w
+0 0 1 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 182.0267 237.655 cm
+q
+[] 0 d
+1 w
+1 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 33.20783 237.655 cm
+q
+[] 0 d
+1 w
+0 1 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 35.25983 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 361.4172 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 35.2599 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 361.4173 28.34646 28.34646 re f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (Konfiguration zur\374cksetzen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 175.6677 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 141.4817 0 Td (OpenWRT - Freie Firmware f\374r Router) Tj T* -141.4817 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+BT 1 0 0 1 0 2 Tm 118.3817 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2014-12-04 Jonas Stein, TroLUG ) Tj 0 0 .501961 rg (http://trolug.de/) Tj T* -118.3817 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R82': class PDFStream 
+82 0 obj
+% page stream
+<< /Length 3395 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.347153 0 0 .347153 45.8998 0 cm
+q
+[] 0 d
+BT /F2 10 Tf 12 TL ET
+1 w
+0 0 0 RG
+1 0 0 1 0 0 cm
+0 j
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+0 J
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 744.0945 cm
+q
+1 0 0 1 0 -308.2677 cm
+q
+.220321 0 0 .220321 947.9707 317.465 cm
+q
+[] 0 d
+1 w
+1 1 1 rg
+0 j
+0 J
+n 0 .048886 426.9157 426.9157 re f*
+Q
+q
+1.093858 0 0 1.093858 135.5162 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 -9.761678 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 134.6457 106.1024 14.17323 212.5984 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 141.7323 311.6142 148.8189 14.17323 re f*
+Q
+q
+.7657 0 0 .7657 33.20783 25.05659 cm
+q
+[] 0 d
+1 w
+0 0 1 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 182.0267 237.655 cm
+q
+[] 0 d
+1 w
+1 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 33.20783 237.655 cm
+q
+[] 0 d
+1 w
+0 1 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 35.25983 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 361.4172 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 35.2599 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 361.4173 28.34646 28.34646 re f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (Paketlaufzeiten Ping) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 175.6677 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 141.4817 0 Td (OpenWRT - Freie Firmware f\374r Router) Tj T* -141.4817 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+BT 1 0 0 1 0 2 Tm 118.3817 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2014-12-04 Jonas Stein, TroLUG ) Tj 0 0 .501961 rg (http://trolug.de/) Tj T* -118.3817 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R83': class PDFStream 
+83 0 obj
+% page stream
+<< /Length 3515 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.347153 0 0 .347153 45.8998 0 cm
+q
+[] 0 d
+BT /F2 10 Tf 12 TL ET
+1 w
+0 0 0 RG
+1 0 0 1 0 0 cm
+0 j
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+0 J
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 744.0945 cm
+q
+1 0 0 1 0 -308.2677 cm
+q
+.220321 0 0 .220321 947.9707 317.465 cm
+q
+[] 0 d
+1 w
+1 1 1 rg
+0 j
+0 J
+n 0 .048886 426.9157 426.9157 re f*
+Q
+q
+1.093858 0 0 1.093858 135.5162 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 -9.761678 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 134.6457 106.1024 14.17323 212.5984 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 141.7323 311.6142 148.8189 14.17323 re f*
+Q
+q
+.7657 0 0 .7657 33.20783 25.05659 cm
+q
+[] 0 d
+1 w
+0 0 1 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 182.0267 237.655 cm
+q
+[] 0 d
+1 w
+1 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 33.20783 237.655 cm
+q
+[] 0 d
+1 w
+0 1 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 35.25983 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 361.4172 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 35.2599 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 361.4173 28.34646 28.34646 re f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (DNS Server) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 163.6677 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (net-analyzer/namebench-1.3.1-r1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 163.6677 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 141.4817 0 Td (OpenWRT - Freie Firmware f\374r Router) Tj T* -141.4817 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+BT 1 0 0 1 0 2 Tm 118.3817 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2014-12-04 Jonas Stein, TroLUG ) Tj 0 0 .501961 rg (http://trolug.de/) Tj T* -118.3817 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R84': class PDFStream 
+84 0 obj
+% page stream
+<< /Length 4849 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.347153 0 0 .347153 45.8998 0 cm
+q
+[] 0 d
+BT /F2 10 Tf 12 TL ET
+1 w
+0 0 0 RG
+1 0 0 1 0 0 cm
+0 j
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+0 J
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 744.0945 cm
+q
+1 0 0 1 0 -308.2677 cm
+q
+.220321 0 0 .220321 947.9707 317.465 cm
+q
+[] 0 d
+1 w
+1 1 1 rg
+0 j
+0 J
+n 0 .048886 426.9157 426.9157 re f*
+Q
+q
+1.093858 0 0 1.093858 135.5162 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 -9.761678 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 134.6457 106.1024 14.17323 212.5984 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 141.7323 311.6142 148.8189 14.17323 re f*
+Q
+q
+.7657 0 0 .7657 33.20783 25.05659 cm
+q
+[] 0 d
+1 w
+0 0 1 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 182.0267 237.655 cm
+q
+[] 0 d
+1 w
+1 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 33.20783 237.655 cm
+q
+[] 0 d
+1 w
+0 1 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 35.25983 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 361.4172 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 35.2599 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 361.4173 28.34646 28.34646 re f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (\334bertragungsgeschwindigkeit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 169.6677 cm
+Q
+q
+1 0 0 1 51.35433 169.6677 cm
+Q
+q
+1 0 0 1 51.35433 157.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (suchen nach "dsl speedtest" etc.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 151.6677 cm
+Q
+q
+1 0 0 1 51.35433 127.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.311831 Tw (zuverl\344ssiger, aber weniger bunt: Zufallsdatei von eigenem Provider mit) Tj T* 0 Tw (wget herunterladen) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 127.6677 cm
+Q
+q
+1 0 0 1 51.35433 89.95221 cm
+q
+q
+.798804 0 0 .798804 0 0 cm
+q
+1 0 0 1 6.6 8.262354 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 438 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 12.75 72 12 re f*
+.960784 .960784 .862745 rg
+n 0 .75 12 12 re f*
+.960784 .960784 .862745 rg
+n 126 .75 6 12 re f*
+BT 1 0 0 1 0 14 Tm 12 TL /F6 10 Tf .25098 .501961 .501961 rg (# NetCologne) Tj T* /F4 10 Tf .098039 .090196 .486275 rg ($ ) Tj 0 0 0 rg (wget --report-speed) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (bits http://speedtest.netcologne.de/test_10mb.bin) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 81.95221 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 141.4817 0 Td (OpenWRT - Freie Firmware f\374r Router) Tj T* -141.4817 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+BT 1 0 0 1 0 2 Tm 118.3817 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2014-12-04 Jonas Stein, TroLUG ) Tj 0 0 .501961 rg (http://trolug.de/) Tj T* -118.3817 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R85': class PDFStream 
+85 0 obj
+% page stream
+<< /Length 4593 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.347153 0 0 .347153 45.8998 0 cm
+q
+[] 0 d
+BT /F2 10 Tf 12 TL ET
+1 w
+0 0 0 RG
+1 0 0 1 0 0 cm
+0 j
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+0 J
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 744.0945 cm
+q
+1 0 0 1 0 -308.2677 cm
+q
+.220321 0 0 .220321 947.9707 317.465 cm
+q
+[] 0 d
+1 w
+1 1 1 rg
+0 j
+0 J
+n 0 .048886 426.9157 426.9157 re f*
+Q
+q
+1.093858 0 0 1.093858 135.5162 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 202.8367 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+1.093858 0 0 1.093858 -13.30265 -9.761678 cm
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 134.6457 106.1024 14.17323 212.5984 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 141.7323 311.6142 148.8189 14.17323 re f*
+Q
+q
+.7657 0 0 .7657 33.20783 25.05659 cm
+q
+[] 0 d
+1 w
+0 0 1 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 182.0267 237.655 cm
+q
+[] 0 d
+1 w
+1 0 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+.7657 0 0 .7657 33.20783 237.655 cm
+q
+[] 0 d
+1 w
+0 1 0 rg
+0 j
+0 J
+n 174.125 106.1024 m 174.125 123.9924 159.6223 138.4951 141.7323 138.4951 c 123.8423 138.4951 109.3395 123.9924 109.3395 106.1024 c 109.3395 88.21233 123.8422 73.7096 141.7323 73.7096 c 159.6223 73.7096 174.125 88.21233 174.125 106.1024 c h
+f*
+Q
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 35.25983 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 70.69292 361.4172 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 35.2599 28.34646 28.34646 re f*
+Q
+q
+[] 0 d
+1 w
+0 0 0 rg
+0 j
+0 J
+n 333.2442 361.4173 28.34646 28.34646 re f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (Dank) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 169.6677 cm
+Q
+q
+1 0 0 1 51.35433 169.6677 cm
+Q
+q
+1 0 0 1 51.35433 157.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Diese Folien wurden mit rst2pdf erstellt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 157.6677 cm
+Q
+q
+1 0 0 1 51.35433 124.4677 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 349.6346 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 .75 12 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf .098039 .090196 .486275 rg ($ ) Tj 0 0 0 rg (rst2pdf openwrt.rst -b1 -s slides.style) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 110.4677 cm
+Q
+q
+1 0 0 1 51.35433 110.4677 cm
+Q
+q
+1 0 0 1 51.35433 98.46772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Roberto Alsina f\374r ) Tj 0 0 .501961 rg (http://ralsina.me/stories/BBS52.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 98.46772 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 141.4817 0 Td (OpenWRT - Freie Firmware f\374r Router) Tj T* -141.4817 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+BT 1 0 0 1 0 2 Tm 118.3817 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2014-12-04 Jonas Stein, TroLUG ) Tj 0 0 .501961 rg (http://trolug.de/) Tj T* -118.3817 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R86': class PDFPageLabels 
+86 0 obj
+% Document Root
+<< /Nums [ 0
+ 87 0 R
+ 1
+ 88 0 R
+ 2
+ 89 0 R
+ 3
+ 90 0 R
+ 4
+ 91 0 R
+ 5
+ 92 0 R
+ 6
+ 93 0 R
+ 7
+ 94 0 R
+ 8
+ 95 0 R
+ 9
+ 96 0 R
+ 10
+ 97 0 R
+ 11
+ 98 0 R
+ 12
+ 99 0 R
+ 13
+ 100 0 R
+ 14
+ 101 0 R
+ 15
+ 102 0 R
+ 16
+ 103 0 R
+ 17
+ 104 0 R ] >>
+endobj
+% 'R87': class PDFPageLabel 
+87 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R88': class PDFPageLabel 
+88 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R89': class PDFPageLabel 
+89 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R90': class PDFPageLabel 
+90 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R91': class PDFPageLabel 
+91 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R92': class PDFPageLabel 
+92 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+% 'R93': class PDFPageLabel 
+93 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
+% 'R94': class PDFPageLabel 
+94 0 obj
+% None
+<< /S /D
+ /St 8 >>
+endobj
+% 'R95': class PDFPageLabel 
+95 0 obj
+% None
+<< /S /D
+ /St 9 >>
+endobj
+% 'R96': class PDFPageLabel 
+96 0 obj
+% None
+<< /S /D
+ /St 10 >>
+endobj
+% 'R97': class PDFPageLabel 
+97 0 obj
+% None
+<< /S /D
+ /St 11 >>
+endobj
+% 'R98': class PDFPageLabel 
+98 0 obj
+% None
+<< /S /D
+ /St 12 >>
+endobj
+% 'R99': class PDFPageLabel 
+99 0 obj
+% None
+<< /S /D
+ /St 13 >>
+endobj
+% 'R100': class PDFPageLabel 
+100 0 obj
+% None
+<< /S /D
+ /St 14 >>
+endobj
+% 'R101': class PDFPageLabel 
+101 0 obj
+% None
+<< /S /D
+ /St 15 >>
+endobj
+% 'R102': class PDFPageLabel 
+102 0 obj
+% None
+<< /S /D
+ /St 16 >>
+endobj
+% 'R103': class PDFPageLabel 
+103 0 obj
+% None
+<< /S /D
+ /St 17 >>
+endobj
+% 'R104': class PDFPageLabel 
+104 0 obj
+% None
+<< /S /D
+ /St 18 >>
+endobj
+xref
+0 105
+0000000000 65535 f
+0000000113 00000 n
+0000000272 00000 n
+0000000437 00000 n
+0000000606 00000 n
+0000000793 00000 n
+0000001006 00000 n
+0000001319 00000 n
+0000001532 00000 n
+0000001845 00000 n
+0000002095 00000 n
+0000002309 00000 n
+0000002632 00000 n
+0000002846 00000 n
+0000003149 00000 n
+0000003323 00000 n
+0000003537 00000 n
+0000003840 00000 n
+0000004024 00000 n
+0000004238 00000 n
+0000004553 00000 n
+0000004767 00000 n
+0000005082 00000 n
+0000005296 00000 n
+0000005612 00000 n
+0000005826 00000 n
+0000006142 00000 n
+0000006357 00000 n
+0000006673 00000 n
+0000006888 00000 n
+0000007204 00000 n
+0000007419 00000 n
+0000007735 00000 n
+0000007950 00000 n
+0000008266 00000 n
+0000008481 00000 n
+0000008797 00000 n
+0000009012 00000 n
+0000009328 00000 n
+0000009543 00000 n
+0000009846 00000 n
+0000010037 00000 n
+0000010252 00000 n
+0000010568 00000 n
+0000010824 00000 n
+0000011039 00000 n
+0000011350 00000 n
+0000011509 00000 n
+0000011757 00000 n
+0000011883 00000 n
+0000012083 00000 n
+0000012270 00000 n
+0000012468 00000 n
+0000012668 00000 n
+0000012859 00000 n
+0000013050 00000 n
+0000013242 00000 n
+0000013429 00000 n
+0000013620 00000 n
+0000013815 00000 n
+0000014003 00000 n
+0000014189 00000 n
+0000014376 00000 n
+0000014582 00000 n
+0000014779 00000 n
+0000014966 00000 n
+0000015173 00000 n
+0000015322 00000 n
+0000015582 00000 n
+0000020865 00000 n
+0000025063 00000 n
+0000030009 00000 n
+0000034262 00000 n
+0000038017 00000 n
+0000042925 00000 n
+0000047520 00000 n
+0000051005 00000 n
+0000054494 00000 n
+0000057986 00000 n
+0000061907 00000 n
+0000065729 00000 n
+0000070117 00000 n
+0000073620 00000 n
+0000077114 00000 n
+0000080728 00000 n
+0000085676 00000 n
+0000090372 00000 n
+0000090699 00000 n
+0000090776 00000 n
+0000090853 00000 n
+0000090930 00000 n
+0000091007 00000 n
+0000091084 00000 n
+0000091161 00000 n
+0000091238 00000 n
+0000091315 00000 n
+0000091392 00000 n
+0000091470 00000 n
+0000091548 00000 n
+0000091626 00000 n
+0000091705 00000 n
+0000091785 00000 n
+0000091865 00000 n
+0000091945 00000 n
+0000092025 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(b\221\2625B\304\001]@b\033\342\006\337\363\316) (b\221\2625B\304\001]@b\033\342\006\337\363\316)] 
+
+ /Info 47 0 R
+ /Root 46 0 R
+ /Size 105 >>
+startxref
+92074
+%%EOF
