@@ -1,3 +1,12 @@
+TroLUG 2014-12-04
+-----------------
+
+* Aktuelle Mitteilungen
+* OpenWRT Teil 1
+* 15 Min. Pause, Mate, Dose
+* OpenWRT Teil 2
+* Dinner
+
 OpenWRT ersetzt Firmware des Herstellers
 ----------------------------------------
 
@@ -18,6 +27,8 @@ DSL-Splitter
 * Frequenzweiche
 
 * Alterung
+
+* Typen: ADSL2+, VDSL
 
 
 Unterstützte Router
@@ -70,9 +81,17 @@ DSL Zugangsdaten
 
 DHCP-Server
 -----------
+* Fehlerquelle: Zwei konkurrierende DHCP Server
+* praktisch: Statisches DHCP: IP zu MAC zuordnen
+
+.. code-block:: bash
+
+    dhclient eth0
+
 
 Port forwarding
 ---------------
+* per Menü in OpenWRT
 
 
 Zeitdienst per ntp
@@ -82,26 +101,46 @@ Zeitdienst per ntp
     uci set system.ntp.server='ptbtime1.ptb.de'
     uci set system.ntp.enable_server=1
 
+SSH-Schlüssel in Router laden
+-----------------------------
+.. code-block:: bash 
+    
+    $ sshkeygen
 
+* upload von id_rsa.pub in LUCI
 
 Fehlersuche
 -----------
 Hardwarestatus der Netzwerkkarte abfragen
-.. code-block:: bash
 
+.. code-block:: bash
+    # alte Methode
     $ mii-tools eth0
 
+    # neue Metode
+    $ ethtool eth0
 
-lokale IP
----------
+
+lokale IP / Route
+-----------------
 .. code-block:: bash
 
      $ ifconfig
+     $ route -n
+     $ ip -4 addr 
+     $ ip -6 addr
+
+Nachbarschaft
+-------------
+.. code-block:: bash
+
+     # zeigt benachbarte Netzwerkteilnehmer
+     $ ip -nei
+     
 
 
-
-externe IP
-----------
+Client IP im Internet
+---------------------
 .. code-block:: bash
 
      $ cat ~/.bash_aliases
@@ -110,17 +149,31 @@ externe IP
 
 
 
-
 Konfiguration zurücksetzen
 --------------------------
+* TP-Link AC-1200 
+* Einschalten 
+* warten bis grüner Stern langsam blinkt 
+* RESET einige Male tippen
+* Stern blinkt schnell: Failsafe bootet
 
 
+Überleben im Failsafe mode
+--------------------------
+.. code-block:: bash
+
+    $ telnet 192.168.1.1
+    # mount_root
+    # firstboot
+    # uci
+    # passwd
+    # reboot -f
 
 Paketlaufzeiten Ping
 --------------------
 .. code-block:: bash
 
-    $ ping example.com
+    $ ping meinprovider.de
 
 
 DNS Server
@@ -141,9 +194,14 @@ DNS Server
     $ wget --report-speed=bits http://speedtest.netcologne.de/test_10mb.bin
 
 
-
-
-
+Tipps
+-----
+* IP 192.168.1.1 für andere Router reservieren, FF-Router, Reparatur anderer Router...
+* Kabel bis DSL Modem kurz halten
+* Konfiguration des Routers dokumentieren/sichern
+* jede Einstellungsänderung dokumentieren
+* Verbindungen auf verdächtige Aktivitäten hin überwachen
+* SSH nur mit Passwort ist out
 
 Dank
 ---- 

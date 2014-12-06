@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1052.3622"
-   height="744.09448"
+   width="566.92914"
+   height="318.89764"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="New document 1">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="background.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -37,7 +37,13 @@
      inkscape:cy="441.0705"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false" />
+     showgrid="false"
+     units="cm"
+     inkscape:window-width="1600"
+     inkscape:window-height="850"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -46,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,11 +60,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-308.2677)">
+     transform="translate(0,-733.4651)">
     <g
        id="layer1-3"
        inkscape:label="Layer 1"
-       transform="matrix(0.22032117,0,0,0.22032117,947.97071,317.46498)">
+       transform="matrix(0.11324082,0,0,0.11324082,510.82786,742.04164)">
       <rect
          y="0.048886079"
          x="0"
