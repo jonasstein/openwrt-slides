@@ -18,7 +18,7 @@ OpenWRT ersetzt Firmware des Herstellers
 
 * geräteunabhängige Konfiguration (UCI)
 
-* Möglich durch GPL
+* möglich durch GPL
 
 
 DSL-Splitter
@@ -28,7 +28,7 @@ DSL-Splitter
 
 * Alterung
 
-* Typen: ADSL2+, VDSL
+* Typen: ADSL2+ (< 25 MBit), VDSL
 
 
 Unterstützte Router
@@ -135,8 +135,12 @@ Nachbarschaft
 .. code-block:: bash
 
      # zeigt benachbarte Netzwerkteilnehmer
-     $ ip -nei
-     
+     $ ip neigh
+     $ ip nei
+
+     # mit Filter für IPv4 / IPv6
+     $ ip -4 nei
+     $ ip -6 nei
 
 
 Client IP im Internet
